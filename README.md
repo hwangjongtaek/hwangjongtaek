@@ -1,16 +1,34 @@
-### Hi there 👋
+### Who Am I 👋
 
-<!--
-**hwangjongtaek/hwangjongtaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Orc Hwang, and currently work as a Python Backend Engineer. I'm finding joy in solving a variety of challenges that one can encounter in life through code. 
 
-Here are some ideas to get you started:
+- I am striving to write good code proficiently.
+- I prefer the Test-Driven Development (TDD) approach. I believe that the TDD cycle enhances service reliability and is advantageous for collaboration.
+- I believe that active communication among colleagues is directly linked to the quality of the product.
+- I really enjoy coffee chats with fellow developers ☕️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Techs What I'm Good at 🤺
+
+- Language : Python
+- Framework : Django, FastAPI
+- DBMS : MySQL, MariaDB
+- Cloud : AWS
+- Container : Docker
+- Container Orchestration : Docker Compose, AWS ECS
+- CI / CD : Github Actions, Gitlab CI
+- IAC : Terraform
+- Editor : NeoVIM
+
+### Techs Not Using Lately 🥱
+
+- Language : Java, Javascript, Typescript
+- DBMS : Oracle
+- Editor : Pycharm
+- Search Engine : ELK Stack
+
+### What I'm learning 📒
+
+- Language : Rust
+- Database : Redis
+- Container Orchestration : K8S
+- Data Engineering : Kafka
