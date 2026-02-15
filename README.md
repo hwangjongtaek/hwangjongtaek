@@ -2,10 +2,10 @@
 
 # Jongtaek Hwang
 
-**Python Backend Engineer | Problem Resolver | Cloud-Native Builder**
+**Python Backend Engineer | Problem Resolver | TDD Advocate**
 
 Not just writing code — I find problems in the product and resolve them professionally.
-I build reliable backend systems with TDD and believe great products come from great team communication.
+I build reliable backend systems with TDD and write test cases as AI agent harnesses to ensure quality at scale.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/orchwang)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/orchwang)
