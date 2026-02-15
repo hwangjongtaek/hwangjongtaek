@@ -5,7 +5,7 @@
 **Python Backend Engineer | Problem Resolver | TDD Advocate**
 
 Not just writing code — I find problems in the product and resolve them professionally.
-I build reliable backend systems with TDD and write test cases as AI agent harnesses to ensure quality at scale.
+I write test cases as AI agent harnesses to ensure quality at scale.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/orchwang)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/orchwang)
@@ -17,9 +17,9 @@ I build reliable backend systems with TDD and write test cases as AI agent harne
 
 ### About Me
 
-- I am striving to write good code proficiently.
-- I prefer the **Test-Driven Development (TDD)** approach. I believe that the TDD cycle enhances service reliability and is advantageous for collaboration.
-- I believe that active communication among colleagues is directly linked to the quality of the product.
+- I write clean, maintainable code and care deeply about software craftsmanship.
+- I believe the **TDD** cycle enhances service reliability and is advantageous for collaboration.
+- Active communication among colleagues is directly linked to the quality of the product.
 - I really enjoy coffee chats with fellow developers ☕️
 
 ---
@@ -46,17 +46,18 @@ I build reliable backend systems with TDD and write test cases as AI agent harne
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
 
-**CI / CD**
+**Container Orchestration**
+
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+
+**CI / CD & Tools**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-**Tools**
-
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 ---
@@ -69,9 +70,7 @@ I build reliable backend systems with TDD and write test cases as AI agent harne
 
 ---
 
-### Present Updates
-
-**PostgreSQL** — Expanding database expertise beyond MySQL/MariaDB into PostgreSQL for advanced use cases.
+### Recent Focus
 
 **Ray for MLOps** — Building and orchestrating scalable ML pipelines using Ray agent framework for MLOps platforms.
 
