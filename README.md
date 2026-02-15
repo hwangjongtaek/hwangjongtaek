@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/avatar.png" width="180" style="border-radius: 50%;" />
+
 # Jongtaek Hwang
 
 **Python Backend Engineer | Problem Resolver | TDD Advocate**
