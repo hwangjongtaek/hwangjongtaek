@@ -110,8 +110,6 @@ as the harness that lets AI agents ship quality at scale.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwangjongtaek&show_icons=true&theme=default&count_private=true&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hwangjongtaek&theme=default&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangjongtaek&layout=compact&theme=default&hide_border=true&count_private=true)
